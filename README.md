@@ -7,6 +7,23 @@ Angel Salles;
 
 Kalil Vinicius;
 
-Sabrina frazão;
+Sabrina Frazão;
 
 Samuel Anijar;
+
+
+### 📄 Planejamento de Testes (Documento incluído)
+
+Na pasta `docs`, foi incluído o documento:
+
+> **Planejamento de Teste avaliador Físico.xlsx**
+
+Este documento demonstra como foi feito o planejamento dos testes manuais antes da automação. Ele inclui:
+
+- 📋 Definição de **casos de teste com base nos requisitos funcionais**
+- 🧪 Estruturação dos testes com **cenários claros**, **entradas**, **ações** e **resultados esperados**
+- ✅ Organização dos testes por funcionalidade do sistema
+
+Esse material mostra como o processo de testes foi conduzido , servindo como base para os testes automatizados implementados. 
+
+##### Documento criado pela integrante do grupo Sabrina Frazão
